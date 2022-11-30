@@ -6,11 +6,6 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "haysam.kies+@whitesourcesoftware.com",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Sultan-Dev-Org/sultan-modules"
-  },
   "author": "",
   "license": "ISC",
   "dependencies": {
