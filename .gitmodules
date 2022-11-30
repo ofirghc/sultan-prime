@@ -1,0 +1,3 @@
+[submodule "sultan-modules"]
+	path = sultan-modules
+	url = https://github.com/Sultan-Dev-Org/sultan-modules.git
