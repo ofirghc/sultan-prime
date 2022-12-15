@@ -4,6 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": []
+    "cloneSubModules" : true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
