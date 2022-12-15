@@ -4,7 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "cloneSubModules" : true,
+    "cloneSubmodules" : true,
     "enableSASTRemediation" : true
   },
   "checkRunSettings": {
