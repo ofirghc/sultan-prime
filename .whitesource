@@ -4,8 +4,7 @@
     "configExternalURL": "",
     "projectToken": "",
     "baseBranches": [],
-    "cloneSubmodules" : true,
-    "enableSASTRemediation" : true
+    "cloneSubmodules" : true
   },
   "checkRunSettings": {
     "vulnerableCheckRunConclusionLevel": "failure",
