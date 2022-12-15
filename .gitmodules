@@ -1,3 +1,7 @@
 [submodule "sultan-modules"]
 	path = sultan-modules
 	url = https://github.com/Sultan-Dev-Org/sultan-modules.git
+	
+[submodule "other"]
+	path = other
+	url = https://github.com/whitesource/GitHubPackagesSecurityAction.git
